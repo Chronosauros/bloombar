@@ -1,0 +1,4 @@
+build/
+.DS_Store
+# your TIDAL Client ID, see app/tidal.local.env.example
+app/tidal.local.env
